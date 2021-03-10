@@ -1,4 +1,4 @@
-# NSS-Rock-Paper-Scissors
+# NSS-Rock-Paper-Scissors (not finished)
 
 Program a rock paper scissors game as a console application. The user should play against the computer which makes random selections on each turn.
 

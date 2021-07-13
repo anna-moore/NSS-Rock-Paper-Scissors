@@ -29,13 +29,13 @@ void Main()
     if (PlayerScore == 3 && ComputerScore < 3)
     {
         Console.WriteLine("Game over! You saved humanity!");
-        Thread.Sleep(5000);
+        Thread.Sleep(4000);
         Environment.Exit(0);
     }
     if (PlayerScore < 3 && ComputerScore == 3)
     {
         Console.WriteLine("You blew it! Game over!");
-        Thread.Sleep(5000);
+        Thread.Sleep(4000);
         Environment.Exit(0);
     }
     int playerChoice = GamePrompt();
